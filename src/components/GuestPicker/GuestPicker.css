@@ -1,0 +1,45 @@
+.guest-options {
+  margin-top: 3rem;
+  margin-left: 2rem;
+}
+
+.option {
+  color: #333;
+  font-family: Mulish, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 700;
+  margin-bottom: 3rem;
+}
+
+.option > h4:nth-child(2) {
+  color: #bdbdbd;
+  font-weight: 400;
+}
+
+.guest-input {
+  width: fit-content;
+  margin-top: 1rem;
+}
+
+.guest-input > .MuiIconButton-root {
+  font-size: 1rem;
+  color: #828282;
+  opacity: 0.5;
+  padding: 4px;
+  border-radius: 4px;
+  border: 1px solid #828282;
+}
+
+.guest-input > .MuiInputBase-input {
+  color: #333;
+  font-family: Mulish, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  border: none;
+  width: 3rem;
+  text-align: center;
+}
